@@ -1,0 +1,6 @@
+streamlit
+pylint
+pytest
+click
+black
+beautifulsoup4
